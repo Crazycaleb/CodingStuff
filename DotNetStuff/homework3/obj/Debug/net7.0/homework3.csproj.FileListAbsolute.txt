@@ -1,0 +1,15 @@
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\bin\Debug\net7.0\homework3.exe
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\bin\Debug\net7.0\homework3.deps.json
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\bin\Debug\net7.0\homework3.runtimeconfig.json
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\bin\Debug\net7.0\homework3.dll
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\bin\Debug\net7.0\homework3.pdb
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\obj\Debug\net7.0\homework3.csproj.AssemblyReference.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\obj\Debug\net7.0\homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\obj\Debug\net7.0\homework3.AssemblyInfoInputs.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\obj\Debug\net7.0\homework3.AssemblyInfo.cs
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\obj\Debug\net7.0\homework3.csproj.CoreCompileInputs.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\obj\Debug\net7.0\homework3.dll
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\obj\Debug\net7.0\refint\homework3.dll
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\obj\Debug\net7.0\homework3.pdb
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\obj\Debug\net7.0\homework3.genruntimeconfig.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\homework3\obj\Debug\net7.0\ref\homework3.dll

@@ -1,0 +1,15 @@
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\bin\Debug\net7.0\Lecture6.exe
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\bin\Debug\net7.0\Lecture6.deps.json
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\bin\Debug\net7.0\Lecture6.runtimeconfig.json
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\bin\Debug\net7.0\Lecture6.dll
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\bin\Debug\net7.0\Lecture6.pdb
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\obj\Debug\net7.0\Lecture6.csproj.AssemblyReference.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\obj\Debug\net7.0\Lecture6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\obj\Debug\net7.0\Lecture6.AssemblyInfoInputs.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\obj\Debug\net7.0\Lecture6.AssemblyInfo.cs
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\obj\Debug\net7.0\Lecture6.csproj.CoreCompileInputs.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\obj\Debug\net7.0\Lecture6.dll
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\obj\Debug\net7.0\refint\Lecture6.dll
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\obj\Debug\net7.0\Lecture6.pdb
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\obj\Debug\net7.0\Lecture6.genruntimeconfig.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\lecture6\Lecture6\obj\Debug\net7.0\ref\Lecture6.dll

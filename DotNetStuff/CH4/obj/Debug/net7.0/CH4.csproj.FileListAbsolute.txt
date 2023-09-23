@@ -1,0 +1,15 @@
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\obj\Debug\net7.0\CH4.csproj.AssemblyReference.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\obj\Debug\net7.0\CH4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\obj\Debug\net7.0\CH4.AssemblyInfoInputs.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\obj\Debug\net7.0\CH4.AssemblyInfo.cs
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\obj\Debug\net7.0\CH4.csproj.CoreCompileInputs.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\bin\Debug\net7.0\CH4.exe
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\bin\Debug\net7.0\CH4.deps.json
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\bin\Debug\net7.0\CH4.runtimeconfig.json
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\bin\Debug\net7.0\CH4.dll
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\bin\Debug\net7.0\CH4.pdb
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\obj\Debug\net7.0\CH4.dll
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\obj\Debug\net7.0\refint\CH4.dll
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\obj\Debug\net7.0\CH4.pdb
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\obj\Debug\net7.0\CH4.genruntimeconfig.cache
+C:\Users\cjcar\OneDrive\Desktop\Coding stuff\DotNetStuff\CH4\obj\Debug\net7.0\ref\CH4.dll
